@@ -1,16 +1,22 @@
-# React + Vite
+# 🚀 Apex Gear | Next-Gen E-Commerce & 3D Motor Accessories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Modern web teknolojileri ve 3D interaktif deneyimler ile donatılmış, yüksek performanslı e-ticaret MVP projesi.
 
-Currently, two official plugins are available:
+![Apex Gear Banner](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Öne Çıkan Özellikler
 
-## React Compiler
+* **3D İnteraktif Model:** Three.js / Canvas altyapısıyla entegre edilmiş dinamik 3D model görüntüleyicisi.
+* **Gelişmiş Alışveriş Sepeti:** Ürün ekleme/çıkarma, adet güncelleme ve anlık toplam tutar hesaplama.
+* **Akıllı WhatsApp Checkout:** Kullanıcı bilgilerini ve sepet içeriğini doğrudan WhatsApp sipariş hattına formatlı bir şekilde aktaran akıcı akış.
+* **Uçan Ürün Efekti:** Ürün sepete eklendiğinde devreye giren özel animasyonlu görsel geçişi.
+* **Modern UI / UX:** Koyu tema (Dark Mode) estetiği, özel CSS-in-JS stilleri ve tamamen mobil uyumlu responsive yapı.
+* **Kurumsal Bölümler:** Dinamik SSS (Sıkça Sorulan Sorular) akordeonu, kurumsal destek kartları ve harita entegrasyonu.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Kullanılan Teknolojiler
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React, Vite
+* **Stil & Tasarım:** CSS-in-JS, Google Fonts (*Cinzel Decorative* & *Plus Jakarta Sans*)
+* **Versiyon Kontrolü:** Git & GitHub
