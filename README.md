@@ -18,5 +18,7 @@
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Frontend:** React, Vite
+
 * **Stil & Tasarım:** CSS-in-JS, Google Fonts (*Cinzel Decorative* & *Plus Jakarta Sans*)
+
 * **Versiyon Kontrolü:** Git & GitHub
