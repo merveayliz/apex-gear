@@ -3,7 +3,6 @@
 <div align="center">
   <p><em>Yüksek performanslı ekipmanlar ve modern e-ticaret deneyimi sunan dinamik bir web platformu. / A dynamic web platform offering high-performance equipment and a modern e-commerce experience.</em></p>
 
-  <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -39,13 +38,3 @@
 * **CSS3:** Özel stiller, Flexbox/Grid sistemleri ve geçişler / Custom styles, Flexbox/Grid systems, and transitions
 * **JavaScript (ES6+):** Dinamik arayüz özellikleri ve etkileşimler / Dynamic interface features and interactions
 * **FontAwesome:** Profesyonel ikon entegrasyonu / Professional icon integration
-
----
-
-## 🚀 Projeyi Çalıştırma / Getting Started
-```bash
-# Repository'yi klonlayın / Clone the repository
-git clone [https://github.com/merveayliz/apex-gear.git](https://github.com/merveayliz/apex-gear.git)
-
-# Proje klasörüne girin / Navigate to the directory
-cd apex-gear
