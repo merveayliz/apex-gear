@@ -47,14 +47,3 @@
 * **Dağıtım / Hosting:** GitHub Pages
 
 ---
-
-## 🚀 Projeyi Çalıştırma / Getting Started
-
-Proje herhangi bir derleme (build) işlemi veya karmaşık sunucu kurulumu gerektirmez. Dosyaları indirdikten sonra doğrudan çalıştırabilirsiniz.
-
-```bash
-# 1. Repository'yi klonlayın
-git clone [https://github.com/merveayliz/apex-gear.git](https://github.com/merveayliz/apex-gear.git)
-
-# 2. Proje klasörüne girin
-cd apex-gear
